@@ -1,27 +1,42 @@
-title: Blog
-description: ""
-url: https://abhishekraj007.github.io/blog
-baseurl: ""
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+# Site settings
+title: Blog- Front End Engineering
+description: Blog by Abhishek Raj on Front-End Engineering
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://abhishekraj007.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
+# User settings
+username: Abhishek Raj
+user_description: Front-End Engineer
+email: abhishekrajinfo@gmail.com
+twitter_username: abhishekraj
+github_username:  abhishekraj007
+gplus_username:  lorem_ipsum
+disqus_username: lorem_ipsum
+
+# Build settings
 markdown: kramdown
 highlighter: rouge
-gems: [jekyll-paginate]
-paginate: 5
+permalink: /:title/
 
-navigation:
- - title: Home
-   url: /index.html
- - title: About
-   url: /about
- - title: Contact
-   url: /contact
 
-social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
 
-google_analytics: "UA-58263416-1"
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: https://abhishekraj007.github.io
+  - title: Blog
+    url: /
+  - title: Tags
+    url: /tags
+  - title: Category
+    url: /category
+
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
