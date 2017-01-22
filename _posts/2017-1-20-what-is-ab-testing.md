@@ -45,7 +45,7 @@ Which currently displays your party logo, your campaign tagline and, a simple em
 
 Here it is:
 
-![ab_test1](/images/abtesting/ab1.png "")
+![](https://raw.githubusercontent.com/abhishekraj007/blog/gh-pages/images/abtesting/ab1.png)
 
 The page is looking great. But could do better. Perhaps a different image would work.
 What about to demonstrate your life long passion for space?
@@ -59,17 +59,17 @@ Using A/B Testing.
 
 In A/B Testing you can split different variant across the visitors. And compare the result of each.
 
-![ab_test2](/images/abtesting/ab2.png "")
+![](https://raw.githubusercontent.com/abhishekraj007/blog/gh-pages/images/abtesting/ab2.png)
 
 Clear analytics helps you to see which variant win, in term of conversion rate.
 
 And you can swap over to that version in one click. 
 
-![ab_test3](/images/abtesting/ab3.png)
+![](https://raw.githubusercontent.com/abhishekraj007/blog/gh-pages/images/abtesting/ab3.png)
 
 Just like checking different variant of images, you can further optimize the winning page by testing individual elements on the page, like the heading, call to action, etc..
 
-![ab_test4](/images/abtesting/ab4.png)
+![](https://raw.githubusercontent.com/abhishekraj007/blog/gh-pages/images/abtesting/ab4.png)
 
 Final and wining home page can results in more subscribers, and more subscribers means more supporter and more supporters means more donation.
 
@@ -77,7 +77,7 @@ Final and winning home page can result in more subscribers, and more subscribers
 
 And, well, more donation means majority Votes.
 
-![ab_test5](/images/abtesting/ab5.png)
+![](https://raw.githubusercontent.com/abhishekraj007/blog/gh-pages/images/abtesting/ab5.png)
 
 So you see what A/B testing is and how it can help you to win the election. 
 
@@ -85,9 +85,9 @@ Well, if the not election, you can surely gain a lot of customer for your busine
 
 ### What are the tools which we can use for A/B testing?
 
-<b>Google Analytics:</b> Google Analytics is very popular and freely available tools which we can use to test different version of single page. It shows you how different web pages are performing using a random sample of your visitors. 
+<b>[Google Analytics](https://analytics.google.com):</b> Google Analytics is very popular and freely available tools which we can use to test different version of single page. It shows you how different web pages are performing using a random sample of your visitors. 
 
-<b>VWO(Visual  Website Optimizer):</b> This is a paid A/B Testing software developed b Wingify. It's easy to use and tons of additional tools like point and click editor, usability testing, report and user feedback, etc..
+<b> [VWO(Visual  Website Optimizer)](https://vwo.com): </b> This is a paid A/B Testing software developed b Wingify. It's easy to use and tons of additional tools like point and click editor, usability testing, report and user feedback, etc..
 
 
 
