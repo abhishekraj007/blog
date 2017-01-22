@@ -2,7 +2,7 @@
 title: Blog- Front End Engineering
 description: Blog by Abhishek Raj on Front-End Engineering
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://abhishekraj007.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://abhishekraj007.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Abhishek Raj
@@ -30,7 +30,7 @@ compress_html:
 # For external links add external: true
 links:
   - title: Home
-    url: https://abhishekraj007.github.io
+    url: 
   - title: Blog
     url: /
   - title: Tags
