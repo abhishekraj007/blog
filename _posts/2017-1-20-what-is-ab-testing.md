@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Is A/B Testing And How Important It Is"
-image: 'images/abtesting/'
+image: 'src/img/abtesting/'
 main-class: 'web'
 color: '#B31917'
 tags:
@@ -43,7 +43,7 @@ Let's say you are running for president.  You want to make sure you are making t
 
 Which currently displays your party logo, your campaign tagline and, a simple email subscription form.
 
-![](https://raw.githubusercontent.com/abhishekraj007/blog/gh-pages/images/abtesting/ab1.png)
+![](https://raw.githubusercontent.com/abhishekraj007/blog/gh-pages/src/img/abtesting/ab1.png)
 
 The page is looking great. But could do better. Perhaps a different image would work.
 What about to demonstrate your life long passion for space?
@@ -57,23 +57,23 @@ Using A/B Testing.
 
 In A/B Testing you can split different variant across the visitors. And compare the result of each.
 
-![](https://raw.githubusercontent.com/abhishekraj007/blog/gh-pages/images/abtesting/ab2.png)
+![](https://raw.githubusercontent.com/abhishekraj007/blog/gh-pages/src/img/abtesting/ab2.png)
 
 Clear analytics helps you to see which variant win, in term of conversion rate.
 
 And you can swap over to that version in one click. 
 
-![](https://raw.githubusercontent.com/abhishekraj007/blog/gh-pages/images/abtesting/ab3.png)
+![](https://raw.githubusercontent.com/abhishekraj007/blog/gh-pages/src/img/abtesting/ab3.png)
 
 Just like checking different variant of images, you can further optimize the winning page by testing individual elements on the page, like the heading, call to action, etc..
 
-![](https://raw.githubusercontent.com/abhishekraj007/blog/gh-pages/images/abtesting/ab4.png)
+![](https://raw.githubusercontent.com/abhishekraj007/blog/gh-pages/src/img/abtesting/ab4.png)
 
 Final and winning home page can result in more subscribers, and more subscribers mean more supporter and more supporters means more donation.
 
 And, well, more donation means majority Votes.
 
-![](https://raw.githubusercontent.com/abhishekraj007/blog/gh-pages/images/abtesting/ab5.png)
+![](https://raw.githubusercontent.com/abhishekraj007/blog/gh-pages/src/img/abtesting/ab5.png)
 
 So you see what A/B testing is and how it can help you to win the election. 
 
