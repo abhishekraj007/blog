@@ -30,7 +30,7 @@ compress_html:
 # For external links add external: true
 links:
   - title: Home
-    url: 
+    url: /
   - title: Blog
     url: /
   - title: Tags

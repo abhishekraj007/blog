@@ -59,8 +59,6 @@ Using A/B Testing.
 
 In A/B Testing you can split different variant across the visitors. And compare the result of each.
 
-![](https://raw.githubusercontent.com/abhishekraj007/blog/gh-pages/images/abtesting/ab2.png)
-
 Clear analytics helps you to see which variant win, in term of conversion rate.
 
 And you can swap over to that version in one click. 
