@@ -22,14 +22,15 @@ The thing is you website owner have one second before a user starts to get distr
 
 So what causes a site to have slow load time? And how to you fix it?
 
-(Page Insight)[] by Google is a very good tool which gives us an idea where you need to work to improve your page load time.
+[PageSpeed Insight](https://developers.google.com/speed/pagespeed/insights/) by Google is a very good tool which gives us an idea where you need to work to improve your page load time.
 
 ![](https://lh3.googleusercontent.com/eoWwThODhXOMqaDMdRVXKGS1b0hJ3ThGIajfFp2cGd2oGhIOwR4O5aWYubSX8S73YYafwXEn5NYrwLyaopFvtKU4JqEhqJs=s888)
 Source: Google
 
 There are many factors which contribute to page speed. But here I am going to talk about three tools which helps immensely in improving page load.
 
-1. Build Tools: Where you could minify the file and send less bytes down the wire, or merging multiple files, so rather than making four request, you only make one. 
+1. Build Tools: Where you could minify the file and send less bytes down the wire, or merging multiple files, so rather than making four request, you only make one.
+
 2. Page Structure: The second set of issue is on the structure of your page. For instance, where you link to your javascript files.
 
 3. Server side: This is place where you need little tweaks to enable things like caching of your page assets. 
