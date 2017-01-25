@@ -29,11 +29,12 @@ Source: Google
 
 There are many factors which contribute to page speed. But here I am going to talk about three tools which helps immensely in improving page load.
 
-	1. Build Tools: Where you could minify the file and send less bytes down the wire, or merging multiple files, so rather than making four request, you only make one. 
-	2. Page Structure: The second set of issue is on the structure of your page. For instance, where you link to your javascript files.
-	3. Server side: This is place where you need little tweaks to enable things like caching of your page assets. 
+1. Build Tools: Where you could minify the file and send less bytes down the wire, or merging multiple files, so rather than making four request, you only make one. 
+2. Page Structure: The second set of issue is on the structure of your page. For instance, where you link to your javascript files.
 
-###BUILD TOOLS:
+3. Server side: This is place where you need little tweaks to enable things like caching of your page assets. 
+
+#### BUILD TOOLS:
 
 There are a lot of build tools available on the web. Grunt and Gulp are one of them. These build tools are picking up a lot of steams in web dev community. And they are fairly easy to get grips with. I personally prefer using gulp.js in most my projects.
 
@@ -56,7 +57,7 @@ To minimize images you can include following two module in your build task.
 [gulp-svgmin:](https://www.npmjs.com/package/gulp-svgmin) For vectors. This will strip out white space, and any unnecessary tags and attribute from your svg files.
 
 
-###PAGE STRUCTURE:
+#### PAGE STRUCTURE:
 
 In the initial stage of my learning web development. I always used to put all of my javascript files in the head of my page. 
 
@@ -137,7 +138,8 @@ So avoid relying on CDN links for styling most important part of page. If possib
     
         
         <style>
-        body {background-color: lightblue;font-family: verdana; font-size: 20px;} h1 {color: white; text-align: center;}
+        body {background-color: lightblue;font-family: verdana; font-size: 20px;} 
+        h1 {color: white; text-align: center;}
         </style>
     </head>
 <body>
@@ -146,8 +148,6 @@ So avoid relying on CDN links for styling most important part of page. If possib
     
 </body>
 </html>
-
-
 ```
 
 
@@ -224,13 +224,10 @@ Answering the first question of how long do I cache my files for, I personally f
     ExpiresByType image/png                             "access plus 1 month"
     ExpiresByType image/svg+xml                         "access plus 1 month"
    
-
 ```
-
-
 If you look at HTML5 Boilerplate's HD access file, there are number of caching rule defining the caching period depending on the type of file. These are general but you should define the time period accourding to your need. 
 
 The answer to second and third question, what do I do when I need to change a file.
 
-There is a very nice package, [gulp-rev](https://www.npmjs.com/package/gulp-rev), that you can include in your package to take care of revision. And and for server side take a look at [Gziip](https://www.gnu.org/software/gzip/)
+There is a very nice package, [gulp-rev](https://www.npmjs.com/package/gulp-rev), that you can include in your package to take care of revision. And and for server side take a look at [Gzip](https://www.gnu.org/software/gzip/)
 
